@@ -1,0 +1,10 @@
+ul li a:hover{
+    color: red;
+}
+ul li:nth-child(2) a:visited {
+    color: greenyellow;
+}
+
+ul li:nth-child(3) {
+    color: brown;
+}
